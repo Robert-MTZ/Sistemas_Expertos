@@ -1,0 +1,8 @@
+Homero:torpe,Hombre,Amarillo,Gordo,Pelón,Alcohólico
+Bart:torpe,Niño,Amarillo
+Marge:inteligente,Mujer,Amarillo,Pelo azul
+Lisa:inteligente,Niña,Amarillo,Nerd
+Moe:Hombre,Amarillo,Alcohólico,Cantinero
+Krusty:Hombre,Gordo,Alcohólico,Payaso
+Milhouse:inteligente,Niño,Amarillo,Nerd,Miope,Pelo azul
+Maggie:inteligente,Niña,Amarillo,Bebé
